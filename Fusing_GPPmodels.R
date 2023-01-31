@@ -3,7 +3,7 @@
 # Purpose: Calculating GPP using five LUE models: VPM, EC, GLO_PEM, CHJ, and C-Fix
 #          Fusing these five individual models using BMA, SVM and RF
 # Created: 2022-4-1
-# Modified: 2022-9-26
+# Modified: 2023-1-31
 # ===================
 
 setwd("D:\\GPPmodel")
