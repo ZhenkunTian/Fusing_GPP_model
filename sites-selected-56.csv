@@ -1,0 +1,57 @@
+SITE_ID,SITE_NAME,LOCATION_LAT,LOCATION_LONG,LOCATION_ELEV,IGBP
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,42.6609,-80.5595,265,ENF
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,42.7068,-80.3483,184,ENF
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,42.7102,-80.3574,184,ENF
+CH-Cha,Chamau,47.2102,8.4104,393,GRA
+CH-Dav,Davos,46.8153,9.8559,1639,ENF
+CH-Fru,Fr¨¹eb¨¹el,47.1158,8.5378,982,GRA
+CZ-BK1,Bily Kriz forest,49.5021,18.5369,875,ENF
+DE-Geb,Gebesee,51.0997,10.9146,161.5,CRO
+DE-Gri,Grillenburg,50.95,13.5126,385,GRA
+DE-Hai,Hainich,51.0792,10.4522,430,DBF
+DE-Kli,Klingenberg,50.8931,13.5224,478,CRO
+DE-Tha,Tharandt,50.9626,13.5651,385,ENF
+DK-Sor,Soroe,55.4859,11.6446,40,DBF
+ES-LJu,Llano de los Juanes,36.9266,-2.7521,1600,OSH
+FI-Hyy,Hyytiala,61.8474,24.2948,181,ENF
+FI-Sod,Sodankyla,67.3624,26.6386,180,ENF
+FR-Fon,Fontainebleau-Barbeau,48.4764,2.7801,103,DBF
+FR-Gri,Grignon,48.8442,1.9519,125,CRO
+FR-Pue,Puechabon,43.7413,3.5957,270,EBF
+GF-Guy,Guyaflux (French Guiana),5.2788,-52.9249,48,EBF
+IT-BCi,Borgo Cioffi,40.5237,14.9574,20,CRO
+IT-Col,Collelongo,41.8494,13.5881,1560,DBF
+IT-Lav,Lavarone,45.9562,11.2813,1353,ENF
+IT-MBo,Monte Bondone,46.0147,11.0458,1550,GRA
+IT-Ren,Renon,46.5869,11.4337,1730,ENF
+IT-SRo,San Rossore,43.7279,10.2844,6,ENF
+NL-Hor,Horstermeer,52.2403,5.0713,2.2,GRA
+NL-Loo,Loobos,52.1666,5.7436,25,ENF
+RU-Cok,Chokurdakh,70.8291,147.4943,48,OSH
+RU-Fyo,Fyodorovskoye,56.4615,32.9221,265,ENF
+US-ARM,ARM Southern Great Plains site- Lamont,36.6058,-97.4888,314,CRO
+US-GLE,GLEES,41.3665,-106.2399,3197,ENF
+US-Ha1,Harvard Forest EMS Tower (HFR1),42.5378,-72.1715,340,DBF
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),41.8406,-88.241,226.5,GRA
+US-Me2,Metolius mature ponderosa pine,44.4523,-121.5574,1253,ENF
+US-MMS,Morgan Monroe State Forest,39.3232,-86.4131,275,DBF
+US-Ne1,Mead - irrigated continuous maize site,41.1651,-96.4766,361,CRO
+US-Ne2,Mead - irrigated maize-soybean rotation site,41.1649,-96.4701,362,CRO
+US-Ne3,Mead - rainfed maize-soybean rotation site,41.1797,-96.4397,363,CRO
+US-NR1,Niwot Ridge Forest (LTER NWT1),40.0329,-105.5464,3050,ENF
+US-Oho,Oak Openings,41.5545,-83.8438,230,DBF
+US-SRM,Santa Rita Mesquite,31.8214,-110.8661,1120,WSA
+US-Ton,Tonzi Ranch,38.4309,-120.966,177,WSA
+US-UMB,Univ. of Mich. Biological Station,45.5598,-84.7138,234,DBF
+US-Var,Vaira Ranch- Ione,38.4133,-120.9508,129,GRA
+US-Wkg,Walnut Gulch Kendall Grasslands,31.7365,-109.9419,1531,GRA
+AT-Neu,Neustift,47.1167,11.3175,970,GRA
+AU-How,Howard Springs,-12.4943,131.1523,,WSA
+AU-Tum,Tumbarumba,-35.6566,148.1517,1200,EBF
+BE-Bra,Brasschaat,51.3076,4.5198,16,MF
+BE-Lon,Lonzee,50.5516,4.7462,167,CRO
+BE-Vie,Vielsalm,50.3049,5.9981,493,MF
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",48.2167,-82.1556,340,MF
+CA-Oas,"Saskatchewan - Western Boreal, Mature Aspen",53.6289,-106.1978,530,DBF
+CA-Obs,"Saskatchewan - Western Boreal, Mature Black Spruce",53.9872,-105.1178,628.94,ENF
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce",49.6925,-74.3421,382,ENF
